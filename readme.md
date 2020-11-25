@@ -1,4 +1,5 @@
-##Tarea 2##
+Tarea 2
+-------
 Este repositorio contiene el resultado de la tarea 2 de Entornos de Desarollo.
 En el podemos encontrar:
 1. Los ficheros creados para el ejercicio
